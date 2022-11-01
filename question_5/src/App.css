@@ -1,0 +1,17 @@
+.App {
+    padding: 10%;
+}
+
+.Student {
+    margin: 30px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.Student > div{
+    font-size: x-large;
+}

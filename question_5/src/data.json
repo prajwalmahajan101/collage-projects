@@ -1,0 +1,32 @@
+[
+    {
+        "regNo" : "cse200001080",
+        "name" :"Vipul Mahajan",
+        "dept":"Computer Science And Engineering"
+    },
+    
+    {
+        "regNo" : "cse200001081",
+        "name" :"Prajwal Mahajan",
+        "dept":"Mechanical Engineering"
+    },
+    
+    {
+        "regNo" : "cse200001082",
+        "name" :"Ashvini Mehra",
+        "dept":"Computer Science And Engineering"
+    },
+    
+    {
+        "regNo" : "cse200001083",
+        "name" :"Akash Sharma",
+        "dept":"Civil Engineering"
+    },
+    
+    {
+        "regNo" : "cse200001084",
+        "name" :"Sheetal Mahajan",
+        "dept":"Computer Science And Engineering"
+    }
+
+]
