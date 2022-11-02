@@ -1,0 +1,39 @@
+[
+    {
+        "id" : 1,
+        "name" : "Book",
+        "img" : "https://dictionary.cambridge.org/images/thumb/book_noun_001_01679.jpg?version=5.0.271",
+        "price" : "299"
+    },
+    {
+        "id" : 2,
+        "name" : "Laptop",
+        "img" : "https://4.imimg.com/data4/WF/VY/GLADMIN-7303244/quickquotes-images_tmb_rev-tmb_rev_dell_inspiron_15_inch_3551_laptop_black_3551c2500ibu__11735078_0-250x250.jpg",
+        "price" : "29999"
+    },
+    {
+        "id" : 3,
+        "name" : "Phone",
+        "img" : "https://m.media-amazon.com/images/I/31tyUh1todL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price" : "12999"
+    },
+    {
+        "id" : 4,
+        "name" : "Ear Phone",
+        "img" : "https://m.media-amazon.com/images/I/51Q8DUDT2eL._SX522_.jpg",
+        "price" : "599"
+    },
+    {
+        "id" : 5,
+        "name" : "Pen",
+        "img" : "https://m.media-amazon.com/images/I/61uHTQJbbIL._SX522_.jpg",
+        "price" : "599"
+    },
+    {
+        "id" : 5,
+        "name" : "Pen",
+        "img" : "https://m.media-amazon.com/images/I/61uHTQJbbIL._SX522_.jpg",
+        "price" : "599"
+    }
+
+]
